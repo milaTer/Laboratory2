@@ -28,7 +28,9 @@ import java.awt.event.*;
 
 /** Dimensions of the paddle */
 	private static final int PADDLE_WIDTH = 60;
+
 	private static final int PADDLE_HEIGHT = 100;
+
 
 /** Offset of the paddle up from the bottom */
 	private static final int PADDLE_Y_OFFSET = 30;
